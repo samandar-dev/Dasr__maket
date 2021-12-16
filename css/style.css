@@ -15,7 +15,7 @@ body {
   padding: 0 15px;
 }
 
-#hero {
+.hero {
   background: #163A24;
 }
 
@@ -414,6 +414,10 @@ body {
   width: 262px;
   height: 141px;
   margin-right: 27px;
+  list-style-type: none;
+}
+
+.its__img{
   list-style-type: none;
 }
 
