@@ -668,7 +668,7 @@ body {
   border: 0;
 
   padding: 15px 25px;
-  margin-left: 481px;
+  margin-left: -72px;
 }
 
 .stay__sign-text {
@@ -677,6 +677,14 @@ body {
   line-height: 21px;
 
   color: #163A24;
+}
+
+.stay__input{
+  border-radius: 160px;
+  border: 0;
+  width: 553px;
+  height: 48px;
+  padding-left: 20px;
 }
 
 .sign__span {
